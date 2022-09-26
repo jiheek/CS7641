@@ -1,2 +1,3 @@
-- Datasets : There are two datasets in the 'Data' folder
-- Data is imported using pandas read_csv
+
+Follow this link to run the code: https://github.com/jiheek/CS7641
+You can find the instruction in the readme on the git repository.
