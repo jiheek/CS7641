@@ -1,7 +1,8 @@
 # CS7641 - HW1 Supervised Learning 
 
-1. Download the "Data" folder and two jupyter notebooks (HW1 - Airline Data.ipynb, HW1 - Hotel Data.ipynb)
-2. Open a jupyter notebook and run the codes
+1. Download the "Data" folder and two jupyter notebooks (HW1 - Airline Data.ipynb, HW1 - Hotel Data.ipynb) in the same directory
+2. Open a jupyter notebook 
+3. Run the cell in the order 
 
 To run the code, you will need the following packages in addition to Python 3 and jupyter: 
 
