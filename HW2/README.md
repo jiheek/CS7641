@@ -1,6 +1,6 @@
 # HW2 - Randomized Optimization 
 
-1. Download the "Data" folder and the jupyter notebooks in the same directory
+1. Download the jupyter notebook 
 2. Open a jupyter notebook 
 3. Run the cell in the order 
 
